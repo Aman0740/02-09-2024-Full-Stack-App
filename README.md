@@ -85,5 +85,21 @@ mydatabase> db.users.find({username:"Roshan"}).toArray();
   }
 ]
 mydatabase>
+# Home Page
+![img_20240902](https://github.com/user-attachments/assets/4f0649e6-251e-4e41-9019-d01bd0030eec)
+# About Page
+![img_20240902(2)](https://github.com/user-attachments/assets/3d28fab1-52e1-44c0-9d8f-15d1d97ee2a0)
+# Sign Up Page
+![img_20240902(3)](https://github.com/user-attachments/assets/b6a35fd4-f96f-4f0c-b6d6-fc5995a85b8c)
+# Login Page
+![img_20240902(1)](https://github.com/user-attachments/assets/8d5fa46e-ea74-4fcf-9cd8-3bc2999477a0)
+# Output 
+![img_20240903](https://github.com/user-attachments/assets/15401e0a-946b-4943-ba09-1c3ac14168bd)
+
+
+
+
+
+
 
 
